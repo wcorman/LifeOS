@@ -1,0 +1,68 @@
+{
+  "main": {
+    "id": "main",
+    "type": "split",
+    "children": [
+      {
+        "id": "home-tabs",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "home-note",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Home/Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "left-sidebar",
+    "type": "split",
+    "children": [
+      {
+        "id": "left-tabs",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "file-explorer",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "right-sidebar",
+    "type": "split",
+    "children": [
+      {
+        "id": "right-tabs",
+        "type": "tabs",
+        "children": []
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "home-note",
+  "lastOpenFiles": [
+    "00 - Home/Home.md",
+    "01 - Daily Notes/2026-04-02.md",
+    "02 - Projects/LavaLink Demo Vault.md"
+  ]
+}
