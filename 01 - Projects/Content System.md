@@ -21,10 +21,10 @@ Creative work gets easier when the pipeline from idea to output is visible.
 - Identify where ideas tend to get stuck
 
 ## Notes
-- Could connect to [[06 - Resources/Articles]]
+- Could connect to [[03 - Resources/Reference/Articles]]
 - Should stay lightweight enough to use daily
 
 ## Related
-- [[03 - Knowledge/Clarity]]
-- [[03 - Knowledge/Friction]]
-- [[05 - Life/Reflection]]
+- [[03 - Resources/Concepts/Clarity]]
+- [[03 - Resources/Concepts/Friction]]
+- [[02 - Areas/Reflection]]

@@ -82,6 +82,6 @@ Target the more technical audience that cares about ownership, privacy, and self
 This should be approached like a niche intent-capture strategy, not a mass-volume SEO play. The goal is to dominate a narrow, highly relevant problem space.
 
 ## Related
-- [[02 - Projects/LavaLink/Keyword Research]]
-- [[02 - Projects/LavaLink/SEO Initiatives]]
-- [[02 - Projects/LavaLink/Content Calendar]]
+- [[01 - Projects/LavaLink/Keyword Research]]
+- [[01 - Projects/LavaLink/SEO Initiatives]]
+- [[01 - Projects/LavaLink/Content Calendar]]

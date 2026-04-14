@@ -8,4 +8,4 @@
 - What concepts should I revisit after each class?
 
 ## Links
-- [[05 - Life/Health & Fitness]]
+- [[02 - Areas/Health & Fitness]]

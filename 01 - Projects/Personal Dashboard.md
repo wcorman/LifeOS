@@ -25,5 +25,5 @@ The danger is building something that looks productive but slows actual work.
 
 ## Related
 - [[00 - Home/Home]]
-- [[03 - Knowledge/Focus]]
-- [[03 - Knowledge/Clarity]]
+- [[03 - Resources/Concepts/Focus]]
+- [[03 - Resources/Concepts/Clarity]]

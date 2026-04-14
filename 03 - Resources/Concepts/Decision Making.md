@@ -15,9 +15,9 @@ Good decisions come from clear values, good information, and enough distance fro
 Poor decisions are often made when speed outruns reflection.
 
 ## Connected Ideas
-- [[05 - Life/Values]]
-- [[03 - Knowledge/Clarity]]
-- [[05 - Life/Reflection]]
+- [[02 - Areas/Values]]
+- [[03 - Resources/Concepts/Clarity]]
+- [[02 - Areas/Reflection]]
 
 ## Questions
 - Which decisions deserve more space than they usually get?

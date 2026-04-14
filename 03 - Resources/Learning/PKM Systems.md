@@ -17,6 +17,6 @@ tags:
 - What makes a note genuinely reusable?
 
 ## Links
-- [[03 - Knowledge/Second Brain]]
-- [[03 - Knowledge/Personal Knowledge Management]]
-- [[03 - Knowledge/Friction]]
+- [[03 - Resources/Concepts/Second Brain]]
+- [[03 - Resources/Concepts/Personal Knowledge Management]]
+- [[03 - Resources/Concepts/Friction]]

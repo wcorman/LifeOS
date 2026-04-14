@@ -19,6 +19,6 @@ Shape spaces that make calm, clarity, and good habits easier.
 The room often decides the mood before intention gets a chance.
 
 ## Linked
-- [[03 - Knowledge/Friction]]
-- [[03 - Knowledge/Clarity]]
-- [[05 - Life/Health & Fitness]]
+- [[03 - Resources/Concepts/Friction]]
+- [[03 - Resources/Concepts/Clarity]]
+- [[02 - Areas/Health & Fitness]]

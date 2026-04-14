@@ -94,6 +94,6 @@ This captures a plain-language problem statement that likely overlaps with work-
 - What users should evaluate in a solution
 
 ## Related
-- [[02 - Projects/LavaLink/Keyword Research]]
-- [[02 - Projects/LavaLink/Content Calendar]]
-- [[02 - Projects/LavaLink/SEO Roadmap]]
+- [[01 - Projects/LavaLink/Keyword Research]]
+- [[01 - Projects/LavaLink/Content Calendar]]
+- [[01 - Projects/LavaLink/SEO Roadmap]]

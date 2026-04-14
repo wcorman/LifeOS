@@ -64,6 +64,6 @@ Secondary keyword targets:
 - remote access obsidian vault
 
 ## Related
-- [[02 - Projects/LavaLink/Keyword Research]]
-- [[02 - Projects/LavaLink/SEO Roadmap]]
-- [[02 - Projects/LavaLink/Content Calendar]]
+- [[01 - Projects/LavaLink/Keyword Research]]
+- [[01 - Projects/LavaLink/SEO Roadmap]]
+- [[01 - Projects/LavaLink/Content Calendar]]

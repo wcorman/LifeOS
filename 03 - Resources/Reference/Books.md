@@ -14,6 +14,6 @@ tags:
 - The War of Art
 
 ## Related
-- [[03 - Knowledge/Second Brain]]
-- [[03 - Knowledge/Focus]]
-- [[03 - Knowledge/Habits]]
+- [[03 - Resources/Concepts/Second Brain]]
+- [[03 - Resources/Concepts/Focus]]
+- [[03 - Resources/Concepts/Habits]]

@@ -13,10 +13,10 @@ tags:
 Position LavaLink as a strong solution for accessing Obsidian vaults from the browser.
 
 ## Focus Areas
-- [[02 - Projects/LavaLink/SEO Initiatives]]
-- [[02 - Projects/LavaLink/Keyword Research]]
-- [[02 - Projects/LavaLink/Content Calendar]]
-- [[02 - Projects/LavaLink/Reddit Responses]]
+- [[01 - Projects/LavaLink/SEO Initiatives]]
+- [[01 - Projects/LavaLink/Keyword Research]]
+- [[01 - Projects/LavaLink/Content Calendar]]
+- [[01 - Projects/LavaLink/Reddit Responses]]
 
 ## Current Priorities
 - Clarify target keyword clusters
@@ -27,6 +27,6 @@ Position LavaLink as a strong solution for accessing Obsidian vaults from the br
 The opportunity is to meet people exactly where their problem shows up: wanting access to Obsidian notes online without abandoning their existing workflow.
 
 ## Related
-- [[02 - Projects/LavaLink Demo Vault]]
-- [[04 - Learning/Writing]]
-- [[03 - Knowledge/Clarity]]
+- [[01 - Projects/LavaLink Demo Vault]]
+- [[03 - Resources/Learning/Writing]]
+- [[03 - Resources/Concepts/Clarity]]

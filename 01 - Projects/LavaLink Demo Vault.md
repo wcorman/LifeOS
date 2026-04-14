@@ -21,10 +21,10 @@ A good demo should feel alive — more like a real thinking system than a staged
 - Keep the structure simple enough to grow
 
 ## Notes
-- Inspired by [[03 - Knowledge/Second Brain]]
+- Inspired by [[03 - Resources/Concepts/Second Brain]]
 - Needs to feel real, not staged
 
 ## Related
-- [[04 - Learning/Obsidian]]
-- [[03 - Knowledge/Personal Knowledge Management]]
-- [[06 - Resources/Note Conventions]]
+- [[03 - Resources/Learning/Obsidian]]
+- [[03 - Resources/Concepts/Personal Knowledge Management]]
+- [[03 - Resources/Reference/Note Conventions]]

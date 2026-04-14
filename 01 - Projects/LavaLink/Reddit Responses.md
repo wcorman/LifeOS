@@ -42,6 +42,6 @@ If you want something closer to controlling your own note access instead of movi
 - Outcome:
 
 ## Related
-- [[02 - Projects/LavaLink/SEO Initiatives]]
-- [[04 - Learning/Writing]]
-- [[03 - Knowledge/Friction]]
+- [[01 - Projects/LavaLink/SEO Initiatives]]
+- [[03 - Resources/Learning/Writing]]
+- [[03 - Resources/Concepts/Friction]]

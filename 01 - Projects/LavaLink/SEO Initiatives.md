@@ -46,7 +46,7 @@ Focus areas:
 - Answer the actual question first
 - Mention LavaLink only when it is genuinely relevant
 - Keep responses helpful and non-spammy
-- Track responses in [[02 - Projects/LavaLink/Reddit Responses]]
+- Track responses in [[01 - Projects/LavaLink/Reddit Responses]]
 
 ### 4. Supporting SEO Work
 - Build internal links between product and educational pages
@@ -57,9 +57,9 @@ Focus areas:
 ## Next Actions
 - Finalize target keyword clusters
 - Draft first browser-access landing page
-- Start logging Reddit posts and comments in [[02 - Projects/LavaLink/Reddit Responses]]
+- Start logging Reddit posts and comments in [[01 - Projects/LavaLink/Reddit Responses]]
 
 ## Related
-- [[02 - Projects/LavaLink Demo Vault]]
-- [[04 - Learning/Writing]]
-- [[03 - Knowledge/Clarity]]
+- [[01 - Projects/LavaLink Demo Vault]]
+- [[03 - Resources/Learning/Writing]]
+- [[03 - Resources/Concepts/Clarity]]

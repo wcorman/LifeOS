@@ -19,6 +19,6 @@ Do meaningful work with focus, calm, and sustained momentum.
 Work feels better when the day has a visible center.
 
 ## Linked
-- [[02 - Projects/Personal Dashboard]]
-- [[03 - Knowledge/Focus]]
-- [[03 - Knowledge/Energy Management]]
+- [[01 - Projects/Personal Dashboard]]
+- [[03 - Resources/Concepts/Focus]]
+- [[03 - Resources/Concepts/Energy Management]]

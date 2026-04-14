@@ -8,5 +8,5 @@
 - Which tools actually save time consistently?
 
 ## Links
-- [[02 - Projects/AI Experiments]]
-- [[03 - Knowledge/Focus]]
+- [[01 - Projects/AI Experiments]]
+- [[03 - Resources/Concepts/Focus]]

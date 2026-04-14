@@ -19,5 +19,5 @@ Build relationships with intention, attention, and follow-through.
 Being intentional about relationships requires remembering small details.
 
 ## Linked
-- [[01 - Daily Notes/2026-04-01]]
-- [[03 - Knowledge/Second Brain]]
+- [[05 - Daily Notes/2026-04-01]]
+- [[03 - Resources/Concepts/Second Brain]]

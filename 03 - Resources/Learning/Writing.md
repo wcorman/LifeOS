@@ -17,6 +17,6 @@ tags:
 - What helps move from messy notes to finished output?
 
 ## Links
-- [[02 - Projects/Content System]]
-- [[03 - Knowledge/Clarity]]
-- [[06 - Resources/Articles]]
+- [[01 - Projects/Content System]]
+- [[03 - Resources/Concepts/Clarity]]
+- [[03 - Resources/Reference/Articles]]

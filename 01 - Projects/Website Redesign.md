@@ -8,5 +8,5 @@ Refresh the website so it feels clearer, faster, and more intentional.
 - Keep messaging aligned with values
 
 ## Related
-- [[05 - Life/Values]]
-- [[03 - Knowledge/Focus]]
+- [[02 - Areas/Values]]
+- [[03 - Resources/Concepts/Focus]]

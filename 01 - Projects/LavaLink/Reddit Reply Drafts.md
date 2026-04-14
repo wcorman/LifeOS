@@ -45,9 +45,9 @@ If you want browser access to your Obsidian vault specifically, LavaLink might b
 - Adapt each draft to the exact thread
 - Lead with the user’s problem, not the product
 - Avoid sounding like a canned promo
-- Save strongest real-world variants in [[02 - Projects/LavaLink/Reddit Responses]]
+- Save strongest real-world variants in [[01 - Projects/LavaLink/Reddit Responses]]
 
 ## Related
-- [[02 - Projects/LavaLink/Reddit Responses]]
-- [[02 - Projects/LavaLink/SEO Initiatives]]
-- [[02 - Projects/LavaLink/Keyword Research]]
+- [[01 - Projects/LavaLink/Reddit Responses]]
+- [[01 - Projects/LavaLink/SEO Initiatives]]
+- [[01 - Projects/LavaLink/Keyword Research]]

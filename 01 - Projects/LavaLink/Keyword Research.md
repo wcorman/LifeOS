@@ -188,7 +188,7 @@ Recommended content:
 This keyword space appears to be more intent-rich than volume-rich. That is probably fine. The goal is not to chase generic PKM traffic — it is to capture users with a very specific problem that LavaLink actually solves.
 
 ## Related
-- [[02 - Projects/LavaLink/SEO Initiatives]]
-- [[02 - Projects/LavaLink/Content Calendar]]
-- [[02 - Projects/LavaLink/Reddit Responses]]
-- [[02 - Projects/LavaLink/Reddit Reply Drafts]]
+- [[01 - Projects/LavaLink/SEO Initiatives]]
+- [[01 - Projects/LavaLink/Content Calendar]]
+- [[01 - Projects/LavaLink/Reddit Responses]]
+- [[01 - Projects/LavaLink/Reddit Reply Drafts]]

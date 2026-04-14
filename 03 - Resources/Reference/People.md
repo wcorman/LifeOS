@@ -14,6 +14,6 @@ tags:
 - Teachers who clarify without showing off
 
 ## Related
-- [[04 - Learning/Writing]]
-- [[04 - Learning/Systems Design]]
-- [[05 - Life/Relationships]]
+- [[03 - Resources/Learning/Writing]]
+- [[03 - Resources/Learning/Systems Design]]
+- [[02 - Areas/Relationships]]

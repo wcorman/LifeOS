@@ -8,5 +8,5 @@ Explore practical workflows, prototypes, and ideas using AI tools.
 - Compare what feels magical versus actually useful
 
 ## Related
-- [[04 - Learning/AI Tools]]
-- [[03 - Knowledge/Focus]]
+- [[03 - Resources/Learning/AI Tools]]
+- [[03 - Resources/Concepts/Focus]]

@@ -19,6 +19,6 @@ Stay grounded in gratitude, humility, and alignment with what matters most.
 A centered inner life changes the tone of everything else.
 
 ## Linked
-- [[05 - Life/Values]]
-- [[05 - Life/Reflection]]
-- [[03 - Knowledge/Decision Making]]
+- [[02 - Areas/Values]]
+- [[02 - Areas/Reflection]]
+- [[03 - Resources/Concepts/Decision Making]]

@@ -17,10 +17,10 @@ Store ideas in a way that helps future-you think better, not just remember more.
 Good external systems reduce friction and make insight easier to recover.
 
 ## Connected Ideas
-- [[03 - Knowledge/Personal Knowledge Management]]
-- [[03 - Knowledge/Focus]]
-- [[03 - Knowledge/Habits]]
-- [[04 - Learning/Obsidian]]
+- [[03 - Resources/Concepts/Personal Knowledge Management]]
+- [[03 - Resources/Concepts/Focus]]
+- [[03 - Resources/Concepts/Habits]]
+- [[03 - Resources/Learning/Obsidian]]
 
 ## Questions
 - What makes a note worth keeping long-term?

@@ -17,6 +17,6 @@ tags:
 - Which systems deserve investment, and which should stay manual?
 
 ## Links
-- [[02 - Projects/Personal Dashboard]]
-- [[03 - Knowledge/Friction]]
-- [[03 - Knowledge/Decision Making]]
+- [[01 - Projects/Personal Dashboard]]
+- [[03 - Resources/Concepts/Friction]]
+- [[03 - Resources/Concepts/Decision Making]]

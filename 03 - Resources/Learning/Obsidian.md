@@ -8,4 +8,4 @@
 - How do I avoid over-organizing?
 
 ## Links
-- [[03 - Knowledge/Second Brain]]
+- [[03 - Resources/Concepts/Second Brain]]

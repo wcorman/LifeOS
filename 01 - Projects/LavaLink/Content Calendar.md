@@ -28,7 +28,7 @@ tags:
 ### 1. Landing Page
 **Topic:** Access your Obsidian vault from the browser  
 **Goal:** Capture direct product-intent traffic  
-**Status:** Draft created in [[02 - Projects/LavaLink/Landing Page Draft]]
+**Status:** Draft created in [[01 - Projects/LavaLink/Landing Page Draft]]
 
 ### 2. FAQ / Help Content
 **Topic:** Privacy, hosting, sync, and setup questions  
@@ -61,7 +61,7 @@ tags:
 Two important SEO pieces are already live, so the next content should avoid redundancy and expand coverage into adjacent, intent-rich searches.
 
 ## Related
-- [[02 - Projects/LavaLink/SEO Initiatives]]
-- [[02 - Projects/LavaLink/Keyword Research]]
-- [[02 - Projects/LavaLink/SEO Roadmap]]
-- [[02 - Projects/LavaLink/Reddit Responses]]
+- [[01 - Projects/LavaLink/SEO Initiatives]]
+- [[01 - Projects/LavaLink/Keyword Research]]
+- [[01 - Projects/LavaLink/SEO Roadmap]]
+- [[01 - Projects/LavaLink/Reddit Responses]]

@@ -1,5 +1,5 @@
 # Tools
 
-- [[04 - Learning/Obsidian]]
+- [[03 - Resources/Learning/Obsidian]]
 - ChatGPT
 - Notion

@@ -4,5 +4,5 @@
 Values are most visible in repeated decisions, not stated ideals.
 
 ## Linked
-- [[05 - Life/Reflection]]
-- [[02 - Projects/Website Redesign]]
+- [[02 - Areas/Reflection]]
+- [[01 - Projects/Website Redesign]]
