@@ -81,6 +81,8 @@ That experience matters. I want to train in a way that is sustainable for the lo
 
 ## Linked
 - [[03 - Resources/Learning/Jiu Jitsu - Game Plan]]
+- [[03 - Resources/Learning/Jiu Jitsu - Techniques to Study]]
+- [[03 - Resources/Learning/Jiu Jitsu - Training Questions]]
 - [[03 - Resources/Learning/Jiu Jitsu - Tournament Lessons]]
 - [[02 - Areas/Health & Fitness]]
 - [[02 - Areas/Recovery & Mobility]]

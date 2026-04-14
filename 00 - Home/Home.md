@@ -36,6 +36,18 @@ This is my Life OS, a connected system for thinking, building, learning, and ref
 - [[03 - Resources/Reference/Tools]]
 - [[03 - Resources/Reference/Articles]]
 
+## Current Physical Focus
+- [[03 - Resources/Learning/Functional Patterns]]
+- [[03 - Resources/Learning/Functional Patterns - Program Notes]]
+- [[03 - Resources/Learning/Functional Patterns - Key Concepts]]
+- [[03 - Resources/Learning/Jiu Jitsu]]
+- [[03 - Resources/Learning/Jiu Jitsu - Game Plan]]
+- [[03 - Resources/Learning/Jiu Jitsu - Techniques to Study]]
+- [[03 - Resources/Learning/Jiu Jitsu - Training Questions]]
+- [[03 - Resources/Learning/Jiu Jitsu - Tournament Lessons]]
+- [[03 - Resources/Learning/Workday Movement Resets]]
+- [[05 - Daily Notes/Movement & Training Tracker]]
+
 ## Weekly Focus
 - Build systems that make good thinking easier
 - Capture ideas before they disappear

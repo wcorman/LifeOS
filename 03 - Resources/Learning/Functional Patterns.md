@@ -53,6 +53,8 @@ As a web developer, I sit a lot during the day, which can lead to pain, stiffnes
 
 ## Linked
 - [[03 - Resources/Learning/Functional Patterns - Program Notes]]
+- [[03 - Resources/Learning/Functional Patterns - Key Concepts]]
+- [[03 - Resources/Learning/Workday Movement Resets]]
 - [[02 - Areas/Health & Fitness]]
 - [[02 - Areas/Recovery & Mobility]]
 - [[03 - Resources/Learning/Jiu Jitsu]]
