@@ -56,7 +56,7 @@ Capture what the tournament revealed so the experience becomes useful, not just 
 ## Important Reminders
 - Losing does not make the tournament a failure
 - The real value is in turning exposure into direction
-- Competing once already puts me ahead of where I would be if I stayed comfortable
+- Competing once already puts me ahead of where I would be if I didn’t
 
 ## Next Improvements
 - Build a pre-training / pre-competition checklist
