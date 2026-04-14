@@ -1,16 +1,18 @@
 # Life OS Vault
 
-This is an Obsidian vault for planning, learning, projects, reflection, and linked knowledge.
+This is an Obsidian vault organized around a cleaner PARA-inspired structure for planning, projects, areas of responsibility, knowledge, and reflection.
 
 ## Start Here
 - [[00 - Home/Home]]
 
 ## Folders
 - `00 - Home`
-- `01 - Daily Notes`
-- `02 - Projects`
-- `03 - Knowledge`
-- `04 - Learning`
-- `05 - Life`
-- `06 - Resources`
-- `07 - Templates`
+- `01 - Projects`
+- `02 - Areas`
+- `03 - Resources`
+  - `Concepts`
+  - `Learning`
+  - `Reference`
+- `04 - Archives`
+- `05 - Daily Notes`
+- `06 - Templates`

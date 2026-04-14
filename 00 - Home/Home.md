@@ -1,6 +1,6 @@
 ---
 type: home
-updated: 2026-04-02
+updated: 2026-04-14
 tags:
   - home
   - dashboard
@@ -8,28 +8,33 @@ tags:
 
 # Life OS
 
-This is my Life OS — a connected system for thinking, building, learning, and reflecting.
+This is my Life OS, a connected system for thinking, building, learning, and reflecting, now organized into a cleaner PARA-inspired model.
 
 ## Right Now
-- [[01 - Daily Notes/2026-04-02]]
-- [[02 - Projects/LavaLink Demo Vault]]
-- [[05 - Life/Health & Fitness]]
+- [[05 - Daily Notes/2026-04-02]]
+- [[01 - Projects/LavaLink Demo Vault]]
+- [[02 - Areas/Health & Fitness]]
 
 ## Active Projects
-- [[02 - Projects/LavaLink Demo Vault]]
-- [[02 - Projects/AI Experiments]]
-- [[02 - Projects/Website Redesign]]
+- [[01 - Projects/LavaLink Demo Vault]]
+- [[01 - Projects/AI Experiments]]
+- [[01 - Projects/Website Redesign]]
 
 ## Areas
-- [[03 - Knowledge]]
-- [[04 - Learning]]
-- [[05 - Life]]
+- [[02 - Areas/Health & Fitness]]
+- [[02 - Areas/Work]]
+- [[02 - Areas/Spiritual Life]]
+
+## Resources
+- [[03 - Resources/Concepts/Second Brain]]
+- [[03 - Resources/Learning/Obsidian]]
+- [[03 - Resources/Reference/Tools]]
 
 ## Quick Links
-- [[07 - Templates/Daily Note Template]]
-- [[07 - Templates/Project Template]]
-- [[06 - Resources/Tools]]
-- [[06 - Resources/Articles]]
+- [[06 - Templates/Daily Note Template]]
+- [[06 - Templates/Project Template]]
+- [[03 - Resources/Reference/Tools]]
+- [[03 - Resources/Reference/Articles]]
 
 ## Weekly Focus
 - Build systems that make good thinking easier
