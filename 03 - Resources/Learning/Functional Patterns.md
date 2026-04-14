@@ -52,6 +52,7 @@ As a web developer, I sit a lot during the day, which can lead to pain, stiffnes
 - Notice what carries over into Jiu Jitsu, work, and everyday movement
 
 ## Linked
+- [[03 - Resources/Learning/Functional Patterns - Program Notes]]
 - [[02 - Areas/Health & Fitness]]
 - [[02 - Areas/Recovery & Mobility]]
 - [[03 - Resources/Learning/Jiu Jitsu]]

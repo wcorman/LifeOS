@@ -80,6 +80,8 @@ That experience matters. I want to train in a way that is sustainable for the lo
 - Protect the lower back and train sustainably
 
 ## Linked
+- [[03 - Resources/Learning/Jiu Jitsu - Game Plan]]
+- [[03 - Resources/Learning/Jiu Jitsu - Tournament Lessons]]
 - [[02 - Areas/Health & Fitness]]
 - [[02 - Areas/Recovery & Mobility]]
 - [[03 - Resources/Learning/Functional Patterns]]

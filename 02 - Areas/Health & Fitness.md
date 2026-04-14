@@ -28,7 +28,10 @@ Build a strong, resilient, pain-free body that supports energy, longevity, clear
 
 ## Active Sub-Areas
 - [[03 - Resources/Learning/Functional Patterns]]
+- [[03 - Resources/Learning/Functional Patterns - Program Notes]]
 - [[03 - Resources/Learning/Jiu Jitsu]]
+- [[03 - Resources/Learning/Jiu Jitsu - Game Plan]]
+- [[03 - Resources/Learning/Jiu Jitsu - Tournament Lessons]]
 - [[02 - Areas/Recovery & Mobility]]
 
 ## Practices
@@ -45,4 +48,8 @@ Build a strong, resilient, pain-free body that supports energy, longevity, clear
 ## Linked
 - [[02 - Areas/Work]]
 - [[03 - Resources/Learning/Functional Patterns]]
+- [[03 - Resources/Learning/Functional Patterns - Program Notes]]
 - [[03 - Resources/Learning/Jiu Jitsu]]
+- [[03 - Resources/Learning/Jiu Jitsu - Game Plan]]
+- [[03 - Resources/Learning/Jiu Jitsu - Tournament Lessons]]
+- [[05 - Daily Notes/Movement & Training Tracker]]
