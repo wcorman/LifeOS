@@ -51,6 +51,7 @@ This is a paid client project worth $4,250 and an important opportunity to deliv
 ## Notes
 - This feels possible, especially with focused execution and support.
 - Important to front-load planning and reduce ambiguity early.
+- The site should be planned as a Payload CMS-driven build from the start so key content stays adjustable for the client.
 
 ## Related
 - [[01 - Projects/Eagle Heights Estates - 3 Week Delivery Plan]]
@@ -66,6 +67,7 @@ This is a paid client project worth $4,250 and an important opportunity to deliv
 - [[01 - Projects/Eagle Heights Estates - Contact Inquire Content Blocks]]
 - [[01 - Projects/Eagle Heights Estates - FAQ Content Blocks]]
 - [[01 - Projects/Eagle Heights Estates - Client Questions & Missing Assets]]
+- [[01 - Projects/Eagle Heights Estates - Payload CMS Content Model Brief]]
 - [[01 - Projects/Eagle Heights Estates - Build Checklist]]
 - [[02 - Areas/Work]]
 - [[02 - Areas/AlayaCare]]
