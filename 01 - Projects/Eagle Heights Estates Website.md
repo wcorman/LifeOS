@@ -64,6 +64,7 @@ This is a paid client project worth $4,250 and an important opportunity to deliv
 - [[01 - Projects/Eagle Heights Estates - About Page Content Blocks]]
 - [[01 - Projects/Eagle Heights Estates - Properties Listings Content Blocks]]
 - [[01 - Projects/Eagle Heights Estates - Contact Inquire Content Blocks]]
+- [[01 - Projects/Eagle Heights Estates - FAQ Content Blocks]]
 - [[01 - Projects/Eagle Heights Estates - Client Questions & Missing Assets]]
 - [[01 - Projects/Eagle Heights Estates - Build Checklist]]
 - [[02 - Areas/Work]]
