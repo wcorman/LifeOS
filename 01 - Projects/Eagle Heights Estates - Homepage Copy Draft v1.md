@@ -24,7 +24,10 @@ Space, privacy, and freedom to build, without leaving Saskatoon behind.
 - Build your custom home at Eagle Heights Estates.
 
 ### Subheadline
-Eagle Heights Estates is a residential acreage development offering large estate lots for sale just outside Saskatoon, designed for buyers seeking space, privacy, and a quieter way of living without giving up city convenience.
+Eagle Heights Estates is a residential acreage development offering large estate lots for sale just outside Saskatoon, created for buyers who want more room, more privacy, and the opportunity to build a custom home in a quieter setting close to the city.
+
+### Supporting microcopy
+A rare balance of open space, rural calm, and everyday convenience.
 
 ### Primary CTA
 Request Information
@@ -33,40 +36,58 @@ Request Information
 Call Now
 
 ## Intro / Overview
-Eagle Heights Estates offers a different kind of opportunity near Saskatoon. Instead of dense neighbourhoods and limited space, it gives buyers the chance to own a large estate lot and build a custom home in a setting that feels open, calm, and connected to nature.
+There comes a point when the city no longer fits the way you want to live.
 
-For families, custom home builders, and buyers ready to move beyond the city without moving far from it, Eagle Heights Estates is designed to offer the balance of rural freedom and everyday convenience.
+Eagle Heights Estates offers a chance to step into something more spacious, more private, and more intentional, without losing connection to Saskatoon. With large estate lots available in a growing residential acreage development, it is an opportunity to build a custom home in a setting that feels calm, open, and grounded.
+
+For families looking for more room, buyers ready to leave dense neighbourhoods behind, and those who value land, quiet, and long-term lifestyle, Eagle Heights Estates offers a different path forward.
 
 ## Why Eagle Heights Estates
-### Large acreage lots
-Enjoy the kind of space that is harder and harder to find. Eagle Heights Estates offers large estate lots that create more privacy, more flexibility, and more room to build the kind of home and lifestyle you actually want.
+### 1. More space to live well
+Large acreage lots give you the kind of breathing room that is increasingly hard to find. More distance between neighbours, more freedom in how you live, and more potential to create a home environment that actually fits your life.
 
-### Close to Saskatoon
-Located just outside Saskatoon, Eagle Heights Estates gives you a short drive to the city while offering a quieter, more spacious setting to come home to.
+### 2. Close to Saskatoon, removed from the noise
+Eagle Heights Estates is positioned for buyers who want a rural feel without feeling disconnected. You can enjoy the quiet, privacy, and spaciousness of acreage living while staying within easy reach of Saskatoon.
 
-### Freedom to build
-Buyers have the opportunity to purchase their lot and build a custom home that fits their vision, priorities, and long-term lifestyle.
+### 3. The freedom to build your way
+This is not about fitting into a standard template. Buyers have the opportunity to purchase a lot and build a custom home that reflects their priorities, style, and long-term vision.
 
 ## Featured Opportunity
-Now selling individual estate lots at Eagle Heights Estates.
+### Section headline
+Now selling large estate lots near Saskatoon.
 
-This is an opportunity to secure land in a growing residential acreage development near Saskatoon and create a home that reflects the way you want to live.
+### Body copy
+Eagle Heights Estates is currently offering individual lots for sale, giving buyers the chance to secure land in a growing acreage development and start planning a home that feels aligned with the way they want to live.
+
+Whether the priority is more privacy, more room for family life, or the freedom to build something lasting, this is an opportunity to create that foundation from the ground up.
 
 ### CTA
 Request Information
 
 ## Lifestyle / Community
-Eagle Heights Estates is for people who want more than a house in a dense neighbourhood. It is for those who value quiet mornings, open space, room for family life, and the ability to build something more intentional.
+### Section headline
+A quieter lifestyle, with the city still within reach.
 
-With a setting that feels removed from the noise, yet still close to Saskatoon, Eagle Heights Estates offers a lifestyle shaped by privacy, space, and a stronger connection to the land.
+### Body copy
+Eagle Heights Estates is designed for people who want more than a house on a crowded street. It is for those who want mornings that feel quieter, evenings with more space to breathe, and a home that feels connected to the land around it.
+
+Set just outside Saskatoon, the development offers a lifestyle shaped by space, privacy, and simplicity, while still keeping the convenience of the city close at hand. It is a setting for buyers who want to feel removed from the noise without feeling far away from what matters.
 
 ## Trust / Credibility
-Eagle Heights Estates is a real, active development grounded in clarity and tangible opportunity. This is not a vague concept or an overhyped pitch. It is a professional development project offering real land for buyers who want confidence, transparency, and a clear path forward.
+### Section headline
+A real opportunity, communicated with clarity.
 
-Visual updates, site progress, and direct communication help create the kind of trust that matters when making an important long-term decision.
+### Body copy
+Eagle Heights Estates is a professional development project built around real land, real progress, and direct communication. The goal is not to rely on hype. It is to give interested buyers a clear, trustworthy understanding of the opportunity and a straightforward path to learning more.
+
+Site updates, visual progress, and transparent communication help reinforce the legitimacy of the project and give buyers more confidence as they consider their next move.
 
 ## Gallery Preview
-Explore photos and visual updates from Eagle Heights Estates to get a better sense of the land, the setting, and the opportunity.
+### Section headline
+See the land, the setting, and the progress.
+
+### Body copy
+Explore site photos and visual updates from Eagle Heights Estates to get a clearer sense of the landscape, the surrounding environment, and the kind of opportunity taking shape just outside Saskatoon.
 
 ### CTA
 View Gallery
@@ -76,28 +97,28 @@ View Gallery
 Eagle Heights Estates is a residential acreage development offering large estate lots for sale just outside Saskatoon.
 
 ### Who is this for?
-It is ideal for buyers looking for more space and privacy, families wanting room to grow, and people interested in building a custom home outside the city without being far from it.
+It is a strong fit for families looking for more space and privacy, buyers wanting to build a custom home, and people who want a quieter lifestyle without moving far from the city.
 
-### What is being sold?
-Individual lots are currently being offered for sale, with the option for buyers to build custom homes on their land.
+### What is being sold right now?
+Individual lots are currently available for purchase, with buyers able to build custom homes on their land.
 
 ### How do I take the next step?
-Reach out to request information, ask questions, or start a conversation about current lot availability.
+Request information or get in touch directly to ask questions, confirm current availability, and start the conversation.
 
 ## Final CTA
 ### Headline
-Start the conversation about Eagle Heights Estates
+Start planning your next chapter at Eagle Heights Estates.
 
 ### Closing copy
-If you are looking for more space, more privacy, and the freedom to build near Saskatoon, Eagle Heights Estates may be the right fit. Request information today and take the next step toward securing your lot.
+If you have been looking for more space, more privacy, and the freedom to build near Saskatoon, Eagle Heights Estates is worth exploring. Request information today to learn more about current lot availability and take the next step with confidence.
 
 ### CTA
 Request Information
 
 ## Notes
-- This draft is now grounded in the known positioning and offering details.
-- Next refinement pass should tighten the emotional tone and sharpen any copy once real imagery, exact drive-time/location language, and lot-specific details are confirmed.
-- Good opportunities for future specificity: exact location phrasing, community benefits, lot features, and stronger trust details.
+- This version is more polished and emotionally specific while staying grounded and credible.
+- Next improvement opportunities: exact drive-time wording, more specific location benefits, actual lot details, and stronger proof elements once available.
+- Once visuals are selected, the copy can be tuned further to match the image story more precisely.
 
 ## Linked
 - [[01 - Projects/Eagle Heights Estates Website]]
