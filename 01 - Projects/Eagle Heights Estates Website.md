@@ -67,6 +67,7 @@ This is a paid client project worth $4,250 and an important opportunity to deliv
 - [[01 - Projects/Eagle Heights Estates - Contact Inquire Content Blocks]]
 - [[01 - Projects/Eagle Heights Estates - FAQ Content Blocks]]
 - [[01 - Projects/Eagle Heights Estates - Client Questions & Missing Assets]]
+- [[01 - Projects/Eagle Heights Estates - Client Onboarding Package]]
 - [[01 - Projects/Eagle Heights Estates - Payload CMS Content Model Brief]]
 - [[01 - Projects/Eagle Heights Estates - Payload Schema Plan]]
 - [[01 - Projects/Eagle Heights Estates - Visual Direction Design System Brief]]
