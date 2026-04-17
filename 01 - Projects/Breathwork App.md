@@ -46,6 +46,7 @@ Before building the app, create a clear directory of breathing techniques and ma
 - Clarify early product behavior for a Telegram bot version
 
 ## Related
+- [[01 - Projects/Breathwork App - Bot Flow]]
 - [[02 - Areas/Breathwork]]
 - [[03 - Resources/Learning/Breathwork]]
 - [[03 - Resources/Reference/Pranayama Effects Directory]]
