@@ -53,6 +53,7 @@ Before building the app, create a clear directory of breathing techniques and ma
 - [[01 - Projects/Breathwork App - Telegram Bot Architecture]]
 - [[01 - Projects/Breathwork App - Onboarding Prompts & Button Copy]]
 - [[01 - Projects/Breathwork App - Telegram Bot MVP Build Plan]]
+- [[01 - Projects/Breathwork App - MVP Stack & App Structure]]
 - [[02 - Areas/Breathwork]]
 - [[03 - Resources/Learning/Breathwork]]
 - [[03 - Resources/Reference/Pranayama Effects Directory]]
