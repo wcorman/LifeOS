@@ -48,6 +48,7 @@ Before building the app, create a clear directory of breathing techniques and ma
 ## Related
 - [[01 - Projects/Breathwork App - Bot Flow]]
 - [[01 - Projects/Breathwork App - Practice Data Model]]
+- [[01 - Projects/Breathwork App - Recommendation Logic]]
 - [[02 - Areas/Breathwork]]
 - [[03 - Resources/Learning/Breathwork]]
 - [[03 - Resources/Reference/Pranayama Effects Directory]]
