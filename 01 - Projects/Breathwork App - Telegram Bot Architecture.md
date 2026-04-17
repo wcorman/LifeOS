@@ -9,38 +9,49 @@ tags:
   - telegram
   - architecture
   - bot
+  - openclaw
 ---
 
-# Breathwork App - Telegram Bot Architecture
+# Breathwork App - Telegram / OpenClaw Architecture
 
 ## Purpose
-Sketch the practical architecture for a first version of the Breathwork App as a Telegram bot.
+Sketch the practical architecture for a first version of the Breathwork App with OpenClaw as the messaging layer.
+
+## Architecture Shift
+The core change is this:
+- OpenClaw handles the Telegram messaging layer
+- the breathwork app handles profile storage, practice data, recommendation logic, and scheduling logic
+
+This means the project does not need to treat Telegraf as the primary interface layer for the personal MVP.
 
 ## Product Shape
-Version one should be simple and reliable.
+Version one should still be simple and reliable.
 
 Core loop:
 1. User completes onboarding
-2. Bot stores profile and wake-up time
-3. Bot sends a daily check-in
+2. System stores profile and wake-up time
+3. OpenClaw sends a daily check-in
 4. User answers short prompts
-5. Bot recommends one practice
-6. User optionally completes the practice and gives lightweight feedback
+5. Recommendation logic chooses one practice
+6. OpenClaw delivers the recommendation
+7. User optionally completes the practice and gives lightweight feedback
 
 ## Core Components
 
-### 1. Telegram Bot Interface
+### 1. OpenClaw Messaging Layer
 Responsibilities:
-- receive user messages and button selections
 - send onboarding prompts
 - send daily check-ins
+- receive button selections or replies
 - deliver practice recommendations
-- collect simple feedback
+- collect lightweight follow-up responses
 
 Likely interaction style:
 - button-based prompts
 - short responses
 - minimal free-text input
+
+Telegram Bot API remains available as a fallback if lower-level Telegram plumbing is ever needed.
 
 ### 2. User Profile Layer
 This stores persistent user information.
@@ -56,7 +67,7 @@ Suggested profile fields:
 - sensitivityFlags
 - onboardingComplete
 
-## 3. Practice Library
+### 3. Practice Library
 This is the structured database of breath practices.
 
 Suggested fields:
@@ -75,7 +86,7 @@ Suggested fields:
 
 This layer should come from the practice data model already being developed in Life OS.
 
-## 4. Recommendation Engine
+### 4. Recommendation Engine
 Responsibilities:
 - receive daily user inputs
 - apply safety filters
@@ -97,7 +108,7 @@ Output:
 - instructions
 - optional note / caution
 
-## 5. Scheduling Layer
+### 5. Scheduling Layer
 Responsibilities:
 - trigger daily messages based on wake-up time
 - respect timezone
@@ -109,7 +120,7 @@ Could later support:
 - pre-sleep prompt
 - custom reminders
 
-## 6. Response / Session Logging
+### 6. Response / Session Logging
 Useful to store:
 - date
 - prompt sent
@@ -152,15 +163,15 @@ Then:
 This does not need to be overcomplicated in version one.
 
 Possible stack:
-- Telegram Bot API
-- simple app backend
+- OpenClaw for messaging / Telegram interaction
+- simple local app backend or script layer
 - database for users, practices, and logs
-- scheduler / cron for wake-up messages
+- scheduler / cron for wake-up messages or OpenClaw-compatible timing flow
 
 Potential implementation paths:
-- lightweight Node/TypeScript backend
-- Payload-based content management for practices if desired later
-- separate bot logic service if the system grows
+- lightweight Node/TypeScript backend with OpenClaw integration
+- OpenClaw-first orchestration with local storage and recommendation logic
+- Telegram Bot API only where OpenClaw does not cover a needed interaction
 
 ## Recommended V1 Simplicity Rules
 - only one daily primary check-in
@@ -168,6 +179,7 @@ Potential implementation paths:
 - no complicated branching at first
 - no giant knowledge dump in the chat
 - keep buttons and flows tight
+- prefer OpenClaw-native messaging where possible
 
 ## Future Architecture Expansions
 Later the bot could include:
@@ -180,8 +192,8 @@ Later the bot could include:
 - web app companion
 
 ## Notes
-- The first version should optimize for usefulness and consistency, not feature volume.
-- The architecture should stay simple enough to ship, but structured enough to grow.
+- OpenClaw should be treated as the primary conversation and delivery layer for the personal MVP.
+- Telegram Bot API is still available if more direct plumbing is needed later.
 - Practice metadata quality will matter as much as the software architecture.
 
 ## Linked

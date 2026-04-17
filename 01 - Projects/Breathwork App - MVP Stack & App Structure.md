@@ -9,6 +9,7 @@ tags:
   - mvp
   - stack
   - architecture
+  - openclaw
 ---
 
 # Breathwork App - MVP Stack & App Structure
@@ -24,26 +25,22 @@ This version is for:
 - fast iteration
 - proving the daily recommendation loop
 - keeping the technical setup lightweight
+- using OpenClaw as the Telegram messaging layer
 
 ## Recommended MVP Stack
 
 ### Core stack
 - Node.js
 - TypeScript
-- Telegraf
 - SQLite
 - node-cron
+- OpenClaw for Telegram messaging / interaction
 
 ## Why This Stack
 ### Node.js + TypeScript
 - familiar and practical
-- good for bot logic
-- keeps the codebase clean as recommendation logic grows
-
-### Telegraf
-- purpose-built for Telegram bots
-- fast to get working
-- good support for command / button-based interactions
+- good for recommendation and scheduling logic
+- keeps the codebase clean as the app grows
 
 ### SQLite
 - simple and lightweight
@@ -54,6 +51,11 @@ This version is for:
 - enough for daily scheduled check-ins
 - simple and fast for version one
 
+### OpenClaw
+- handles the Telegram conversation layer
+- reduces the need for separate Telegram bot plumbing
+- fits naturally with your current setup
+
 ## What This MVP Intentionally Skips
 - Payload CMS
 - admin panel
@@ -62,6 +64,7 @@ This version is for:
 - advanced analytics
 - multi-user product complexity beyond basic support
 - web frontend
+- heavy Telegram framework dependency as the primary integration layer
 
 ## MVP Success Condition
 The MVP is successful if it can:
@@ -77,15 +80,11 @@ The MVP is successful if it can:
 ```text
 breathwork-bot/
   src/
-    bot/
-      commands/
-      handlers/
-      keyboards/
-      messages/
     core/
       recommendation/
       scheduling/
       onboarding/
+      messaging/
     data/
       practices/
       repositories/
@@ -103,15 +102,6 @@ breathwork-bot/
 
 ## Suggested Folder Roles
 
-### `src/bot/`
-Telegram-specific bot behavior.
-
-Suggested contents:
-- command handlers
-- callback/button handlers
-- keyboard builders
-- message formatting
-
 ### `src/core/`
 Main business logic.
 
@@ -120,6 +110,7 @@ Suggested areas:
 - recommendation logic
 - scheduling logic
 - completion logging logic
+- OpenClaw messaging coordination
 
 ### `src/data/`
 Application data access layer.
@@ -179,13 +170,14 @@ Suggested fields:
 - shortInstructions
 
 ## Suggested First Build Order
-1. Telegram bot shell
-2. onboarding flow
+1. local app shell
+2. onboarding flow logic
 3. local practice library
 4. recommendation function
 5. daily scheduling
-6. session logging
-7. polish / testing
+6. OpenClaw message triggering / response handling
+7. session logging
+8. polish / testing
 
 ## Important Simplicity Rules
 - one user can be enough at first
@@ -194,11 +186,12 @@ Suggested fields:
 - button-based UI where possible
 - practice data can start as JSON
 - do not build an admin panel yet
+- use Telegram Bot API only if OpenClaw leaves a real gap
 
 ## Notes
 - This stack is intentionally chosen for speed and learning.
+- OpenClaw should be treated as the primary Telegram-facing layer for the personal MVP.
 - If the bot proves valuable, it can later graduate to a more scalable architecture.
-- The best next step after this note is likely the actual project scaffold or a repo setup checklist.
 
 ## Linked
 - [[01 - Projects/Breathwork App]]
